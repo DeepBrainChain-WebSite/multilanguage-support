@@ -1,0 +1,522 @@
+{
+  "t1":{
+    "en":"DeepBrain Chain AI Mining Machine",
+    "zh":"",
+    "ru":""
+  },
+  "t2":{
+    "en":"INTELLIGENT",
+    "zh":"",
+    "ru":""
+  },
+  "t3":{
+    "en":"EFFICIENT",
+    "zh":"",
+    "ru":""
+  },
+  "t4":{
+    "en":"INNOVATIVE",
+    "zh":"",
+    "ru":""
+  },
+  "t5":{
+    "en":"People Have Reserved A Total Of",
+    "zh":"",
+    "ru":""
+  },
+  "t6":{
+    "en":"DBC AIM",
+    "zh":"",
+    "ru":""
+  },
+  "t7":{
+    "en":"Wallet Average Ranking",
+    "zh":"",
+    "ru":""
+  },
+  "t8":{
+    "en":"AIM Storage",
+    "zh":"",
+    "ru":""
+  },
+  "t9":{
+    "en":"Personal Data Storage Miner",
+    "zh":"",
+    "ru":""
+  },
+  "t10":{
+    "en":"$3,480.00 ",
+    "zh":"",
+    "ru":""
+  },
+  "t11":{
+    "en":"60TB HDD",
+    "zh":"",
+    "ru":""
+  },
+  "t12":{
+    "en":"Quad-core CPU",
+    "zh":"",
+    "ru":""
+  },
+  "t13":{
+    "en":"2GB DDR3",
+    "zh":"",
+    "ru":""
+  },
+  "t14":{
+    "en":"1GbE network",
+    "zh":"",
+    "ru":""
+  },
+  "t15":{
+    "en":"50W",
+    "zh":"",
+    "ru":""
+  },
+  "t16":{
+    "en":"Facilities total cost is not included, which will be stated when buying starts.",
+    "zh":"",
+    "ru":""
+  },
+  "t17":{
+    "en":"Pre-Order",
+    "zh":"",
+    "ru":""
+  },
+  "t18":{
+    "en":"Reserve Now",
+    "zh":"",
+    "ru":""
+  },
+  "t19":{
+    "en":"AIM Workstation 2",
+    "zh":"",
+    "ru":""
+  },
+  "t20":{
+    "en":"Professional GPU Workstation",
+    "zh":"",
+    "ru":""
+  },
+  "t21":{
+    "en":"$9,500.00 ",
+    "zh":"",
+    "ru":""
+  },
+  "t22":{
+    "en":"2GPUs Over 22 TFLOPs",
+    "zh":"",
+    "ru":""
+  },
+  "t23":{
+    "en":"10GbE network",
+    "zh":"",
+    "ru":""
+  },
+  "t24":{
+    "en":"64GB DDR4",
+    "zh":"",
+    "ru":""
+  },
+  "t25":{
+    "en":"4TB SSD, 1000W",
+    "zh":"",
+    "ru":""
+  },
+  "t26":{
+    "en":"Adequate cooling and noise reduction is necessary, must be hosted in data centers",
+    "zh":"",
+    "ru":""
+  },
+  "t27":{
+    "en":"4TB SSD",
+    "zh":"",
+    "ru":""
+  },
+  "t28":{
+    "en":"1000W",
+    "zh":"",
+    "ru":""
+  },
+  "t29":{
+    "en":"AIM Workstation 4",
+    "zh":"",
+    "ru":""
+  },
+  "t30":{
+    "en":"Professional GPU Workstation",
+    "zh":"",
+    "ru":""
+  },
+  "t31":{
+    "en":"$16,500.00 ",
+    "zh":"",
+    "ru":""
+  },
+  "t32":{
+    "en":"4GPUs Over 44 TFLOPs",
+    "zh":"",
+    "ru":""
+  },
+  "t33":{
+    "en":"10GbE network",
+    "zh":"",
+    "ru":""
+  },
+  "t34":{
+    "en":"128GB DDR4",
+    "zh":"",
+    "ru":""
+  },
+  "t35":{
+    "en":"8TB SSD, 1600W",
+    "zh":"",
+    "ru":""
+  },
+  "t36":{
+    "en":"Adequate cooling and noise reduction is necessary, must be hosted in data centers",
+    "zh":"",
+    "ru":""
+  },
+  "t37":{
+    "en":"8TB SSD",
+    "zh":"",
+    "ru":""
+  },
+  "t38":{
+    "en":"1600W",
+    "zh":"",
+    "ru":""
+  },
+  "t39":{
+    "en":"AIM Cloud",
+    "zh":"",
+    "ru":""
+  },
+  "t40":{
+    "en":"Enterprise GPU Compute Platform",
+    "zh":"",
+    "ru":""
+  },
+  "t41":{
+    "en":"$31,500.00 ",
+    "zh":"",
+    "ru":""
+  },
+  "t42":{
+    "en":"8 GPUs Over 88 TFLOPs",
+    "zh":"",
+    "ru":""
+  },
+  "t43":{
+    "en":"10GbE network, 3000W",
+    "zh":"",
+    "ru":""
+  },
+  "t44":{
+    "en":"192GB DDR4, 16TB SSD",
+    "zh":"",
+    "ru":""
+  },
+  "t45":{
+    "en":"Professional hosting recommended for cooling & noise reduction, needs to be hosted in data centers",
+    "zh":"",
+    "ru":""
+  },
+  "t46":{
+    "en":"10GbE network",
+    "zh":"",
+    "ru":""
+  },
+  "t47":{
+    "en":"192GB DDR4",
+    "zh":"",
+    "ru":""
+  },
+  "t48":{
+    "en":"16TB SSD",
+    "zh":"",
+    "ru":""
+  },
+  "t49":{
+    "en":"3000W",
+    "zh":"",
+    "ru":""
+  },
+  "t50":{
+    "en":"AIM Cluster",
+    "zh":"",
+    "ru":""
+  },
+  "t51":{
+    "en":"Large Scale HPC Cluster",
+    "zh":"",
+    "ru":""
+  },
+  "t52":{
+    "en":"Over $500,000USD",
+    "zh":"",
+    "ru":""
+  },
+  "t53":{
+    "en":"Customized designed on stackable nodes (8 GPUs each node)",
+    "zh":"",
+    "ru":""
+  },
+  "t54":{
+    "en":"128GPUs",
+    "zh":"",
+    "ru":""
+  },
+  "t55":{
+    "en":"Hosted in data centers with professional cooling",
+    "zh":"",
+    "ru":""
+  },
+  "t56":{
+    "en":"DBC AI MINERS",
+    "zh":"",
+    "ru":""
+  },
+  "t57":{
+    "en":"DeepBrain Chain AI Mining Machine Allows You to Engage in AI Computing, Training, Models and Storage. Become Part of The Global AI Network!",
+    "zh":"",
+    "ru":""
+  },
+  "t58":{
+    "en":"GPU POWERED COMPUTING MINING",
+    "zh":"",
+    "ru":""
+  },
+  "t59":{
+    "en":"GPU powered computing 'mining' mode allows you to be part of the global AI training network.",
+    "zh":"",
+    "ru":""
+  },
+  "t60":{
+    "en":"STORAGE MINING",
+    "zh":"",
+    "ru":""
+  },
+  "t61":{
+    "en":"Storage 'mining' mode is an industry-leading AI data storage 'mining' mode.",
+    "zh":"",
+    "ru":""
+  },
+  "t62":{
+    "en":"DBC APPRECIATION",
+    "zh":"",
+    "ru":""
+  },
+  "t63":{
+    "en":"In the DeepBrain Chain ecosystem, your participation will lead to a win-win situation.",
+    "zh":"",
+    "ru":""
+  },
+  "t64":{
+    "en":"FULL FEATURED AI SERVICE WORKSTATION",
+    "zh":"",
+    "ru":""
+  },
+  "t65":{
+    "en":"Full-featured AI service workstation has super GPU and storage capacity.",
+    "zh":"",
+    "ru":""
+  },
+  "t66":{
+    "en":"IMPORTANT INFORMATION",
+    "zh":"",
+    "ru":""
+  },
+  "t67":{
+    "en":"1. Each person can reserve up to 5 AIM Storage and one single type of AIM mining machine (up to 3 machines).",
+    "zh":"",
+    "ru":""
+  },
+  "t68":{
+    "en":"2. Once DBC wallet verification and ranking starts in June, until the official buying starts, everyday at Pacific Standard Time 12AM our system will check the balance of your wallet, refresh the average balance of your wallet and rank wallets accordingly. Your ranking will affect your right to buy. Payment has to be made in DBC. Please stay tuned!",
+    "zh":"",
+    "ru":""
+  },
+  "t69":{
+    "en":"3. For more detailed information in English, please ",
+    "zh":"",
+    "ru":""
+  },
+  "t70":{
+    "en":"download",
+    "zh":"",
+    "ru":""
+  },
+  "t71":{
+    "en":"this document.",
+    "zh":"",
+    "ru":""
+  },
+  "t72":{
+    "en":"INVITE FRIENDS",
+    "zh":"",
+    "ru":""
+  },
+  "t73":{
+    "en":"Dear DeepBrain Chain community members, in addition to pre-ordering of AI miners, we will also give out 50 free storage miners worth $3,480 each to those who have brought in 6 successful buyers. Click the button below to get your unique invitation link. Only 50 spots are available.",
+    "zh":"",
+    "ru":""
+  },
+  "t74":{
+    "en":"COPY EXCLUSIVE LINKS",
+    "zh":"",
+    "ru":""
+  },
+  "t75":{
+    "en":"Login",
+    "zh":"",
+    "ru":""
+  },
+  "t76":{
+    "en":"to see your exclusive link",
+    "zh":"",
+    "ru":""
+  },
+  "t77":{
+    "en":"Frequently Asked Questions (FAQ)",
+    "zh":"",
+    "ru":""
+  },
+  "t78":{
+    "en":"1. When is the release of the DBC Miner?",
+    "zh":"",
+    "ru":""
+  },
+  "t79":{
+    "en":"According to our plan, by the end of October, 2018.",
+    "zh":"",
+    "ru":""
+  },
+  "t80":{
+    "en":"2. We already have machines with GPUs, can we participate in DBC mining?",
+    "zh":"",
+    "ru":""
+  },
+  "t81":{
+    "en":"We encourage participants to be part of the DBC ecosystem, even without buying AI miners from us.  However, we do require each DBC node to hold certain amount of DBCs deposits to be eligible for mining rewards.",
+    "zh":"",
+    "ru":""
+  },
+  "t82":{
+    "en":"3. What GPUs qualify to be part of the DBC distributed AI computing network?",
+    "zh":"",
+    "ru":""
+  },
+  "t83":{
+    "en":"The GPUs that support efficient AI training, especially deep learning, are primarily Nvidia GPUs that meet certain standards (typically above GTX 1080Ti). We are open to user-owned AI workstations to join our ecosystem, as long as it can contribute effective AI training. Information regarding the lowest requirement of AI workstations will be released before our mainnet goes live.",
+    "zh":"",
+    "ru":""
+  },
+  "t84":{
+    "en":"4. How are the number of mining tokens decided?",
+    "zh":"",
+    "ru":""
+  },
+  "t85":{
+    "en":"DBC tokens will be rewarded for consensus nodes, computing power, and storage mining. Based on an AI based advanced algorithms, each AI mining machines’ resources (available computer power, storage, memory) will be evaluated and benchmarked against AI training speed. The more compute power and storage are offered to the shared DBC ecosystem, the faster the training, the more DBC rewards will be given.",
+    "zh":"",
+    "ru":""
+  },
+  "t86":{
+    "en":"5. Can we use ASICs or FPGAs as part of the DBC network for AI training?",
+    "zh":"",
+    "ru":""
+  },
+  "t87":{
+    "en":"DeepBrain Chain ecosystem will be primarily use GPUs, as it has been proven successful and best suited for today’s AI training, especially large scale deep learning and machine learning. But our team is tracking and monitoring ASICs, FPGAs and quantum computing very closely, and will always utilize the most efficient and effective hardware and software to enable best AI training on DeepBrain Chain.",
+    "zh":"",
+    "ru":""
+  },
+  "t88":{
+    "en":"6. Can DBC miners be purchased as a group and shared amongst the investors?",
+    "zh":"",
+    "ru":""
+  },
+  "t89":{
+    "en":"Yes, we are working with reputable mining pools to host and sell shares of DBC AI Miners in the future.",
+    "zh":"",
+    "ru":""
+  },
+  "t90":{
+    "en":"7. Do we have detail features of the DBC miners?",
+    "zh":"",
+    "ru":""
+  },
+  "t91":{
+    "en":"We do have reference architecture and will release detailed spec on our website over time, before the official go-live of our MainNet in Q4.",
+    "zh":"",
+    "ru":""
+  },
+  "t92":{
+    "en":"8. Which AI frameworks will be supported?",
+    "zh":"",
+    "ru":""
+  },
+  "t93":{
+    "en":"We plan to support popular AI frameworks such as TensorFlow, PyTorch, Caffe, CNTK etc.",
+    "zh":"",
+    "ru":""
+  },
+  "t94":{
+    "en":"9. For the mining machine, how much System memory (RAM) is designed in your system?",
+    "zh":"",
+    "ru":""
+  },
+  "t95":{
+    "en":"Normal rule of thumb is to design a system with more than twice the size of the aggregated total of the local memory on the GPU as data does not always stay with the GPUs.  In a situation with four 12GB per GPU, the system memory is greater than twice the amount on the GPU devices, or over 96GB DDR4.  Lower than the recommended ratio threshold will lead to performance impact in training workloads.",
+    "zh":"",
+    "ru":""
+  },
+  "t96":{
+    "en":"10. What storage capacity will be provide with the Miners?",
+    "zh":"",
+    "ru":""
+  },
+  "t97":{
+    "en":"For hot data, SSDs are mandatory for Deep Learning workloads.  As we acknowledge we cannot design for all use cases.  At the same time, we benchmarked other products and recognize that data requirements are correlated with the model size.  Our rule of thumb is to keep 2TB of SSD per GPU available to be processed.",
+    "zh":"",
+    "ru":""
+  },
+  "t98":{
+    "en":"11. What Operating Systems will be supported?",
+    "zh":"",
+    "ru":""
+  },
+  "t99":{
+    "en":"DBC design to support based on the workload requirement of the Deep Learning training computation. At present, the dominant OS for Deep Learning is Linux based systems.",
+    "zh":"",
+    "ru":""
+  },
+  "u1":{
+    "en":"Copied!",
+    "zh":"已复制！",
+    "ru":""
+  },
+  "u2":{
+    "en":"You have successfully reserved ",
+    "zh":"您已经成功预订",
+    "ru":""
+  },
+  "u3":{
+    "en":"You have successfully reserved, but this does not mean you have the right to buy, your right to buy depends on the ranking of your wallet address. Please see",
+    "zh":"",
+    "ru":""
+  },
+  "u4":{
+    "en":"Important Information",
+    "zh":"",
+    "ru":""
+  },
+  "u5":{
+    "en":"for details.",
+    "zh":"",
+    "ru":""
+  }
+}

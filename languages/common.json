@@ -1,0 +1,187 @@
+{
+  "t101":{
+    "en":"HOME",
+    "zh":"",
+    "ru":""
+  },
+  "t102":{
+    "en":"WHITEPAPER",
+    "zh":"",
+    "ru":""
+  },
+  "t103":{
+    "en":"DBPOINTS",
+    "zh":"",
+    "ru":""
+  },
+  "t104":{
+    "en":"ABOUT US",
+    "zh":"",
+    "ru":""
+  },
+  "t105":{
+    "en":"MINER",
+    "zh":"",
+    "ru":""
+  },
+  "t106":{
+    "en":"SIGN IN",
+    "zh":"",
+    "ru":""
+  },
+  "t107":{
+    "en":"SIGN UP",
+    "zh":"",
+    "ru":""
+  },
+  "t108":{
+    "en":"Logo Download",
+    "zh":"",
+    "ru":""
+  },
+  "t109":{
+    "en":"DeepBrain Chain Logo",
+    "zh":"",
+    "ru":""
+  },
+  "t110":{
+    "en":"Business Cooperation",
+    "zh":"",
+    "ru":""
+  },
+  "t111":{
+    "en":"info@deepbrainchain.org",
+    "zh":"",
+    "ru":""
+  },
+  "t112":{
+    "en":"Service Email",
+    "zh":"",
+    "ru":""
+  },
+  "t113":{
+    "en":"service@deepbrainchain.org",
+    "zh":"",
+    "ru":""
+  },
+  "t114":{
+    "en":"Follow",
+    "zh":"",
+    "ru":""
+  },
+  "t115":{
+    "en":"©2018 DeepBrain Chain Foundation22 North Canal Road#02-22, Singapore 048834",
+    "zh":"",
+    "ru":""
+  },
+  "t116":{
+    "en":"AI Computing Platform Driven By Blockchain",
+    "zh":"",
+    "ru":""
+  },
+  "t117":{
+    "en":"Our system saves enterprises up to 70% computing power costs.",
+    "zh":"",
+    "ru":""
+  },
+  "t118":{
+    "en":"Insulated data transaction environment secured by encryption algorithms and smart contracts.",
+    "zh":"",
+    "ru":""
+  },
+  "t119":{
+    "en":"Separating data ownership from data usage right using smart contracts.",
+    "zh":"",
+    "ru":""
+  },
+  "t120":{
+    "en":"Dynamic provision of computing power based on demands.",
+    "zh":"",
+    "ru":""
+  },
+  "t121":{
+    "en":"Email address",
+    "zh":"",
+    "ru":""
+  },
+  "t122":{
+    "en":"Incorrect email address",
+    "zh":"",
+    "ru":""
+  },
+  "t123":{
+    "en":"Password",
+    "zh":"",
+    "ru":""
+  },
+  "t124":{
+    "en":"Incorrect password",
+    "zh":"",
+    "ru":""
+  },
+  "t125":{
+    "en":"Repeat Password",
+    "zh":"",
+    "ru":""
+  },
+  "t126":{
+    "en":"Entered passwords differ",
+    "zh":"",
+    "ru":""
+  },
+  "t127":{
+    "en":"Register",
+    "zh":"",
+    "ru":""
+  },
+  "t128":{
+    "en":"I have read, understood and accepted",
+    "zh":"",
+    "ru":""
+  },
+  "t129":{
+    "en":"these agreements",
+    "zh":"",
+    "ru":""
+  },
+  "t130":{
+    "en":"Already have an account?",
+    "zh":"",
+    "ru":""
+  },
+  "t131":{
+    "en":" Sign in",
+    "zh":"",
+    "ru":""
+  },
+  "t132":{
+    "en":"Login",
+    "zh":"",
+    "ru":""
+  },
+  "t133":{
+    "en":"Don't have an account?",
+    "zh":"",
+    "ru":""
+  },
+  "t134":{
+    "en":" Sign up",
+    "zh":"",
+    "ru":""
+  },
+  "t135":{
+    "en":"Forgot password?",
+    "zh":"",
+    "ru":""
+  },
+  "t136":{
+    "en":"A verification e-mail has been sent to your mailbox，please check your e-mail and activate your account.",
+    "zh":"",
+    "ru":""
+  },
+  "t137":{
+    "en":"The email address has been registered!",
+    "zh":"该邮箱已注册！",
+    "ru":""
+  }
+}
