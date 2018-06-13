@@ -21,22 +21,22 @@
   },
   "t105":{
     "en":"MINER",
-    "zh":"",
+    "zh":"矿机",
     "ru":""
   },
   "t106":{
     "en":"SIGN IN",
-    "zh":"",
+    "zh":"登录",
     "ru":""
   },
   "t107":{
     "en":"SIGN UP",
-    "zh":"",
+    "zh":"注册",
     "ru":""
   },
   "t108":{
     "en":"Logo Download",
-    "zh":"",
+    "zh":"Logo 下载",
     "ru":""
   },
   "t109":{
@@ -46,7 +46,7 @@
   },
   "t110":{
     "en":"Business Cooperation",
-    "zh":"",
+    "zh":"商务合作",
     "ru":""
   },
   "t111":{
@@ -56,7 +56,7 @@
   },
   "t112":{
     "en":"Service Email",
-    "zh":"",
+    "zh":"服务邮箱",
     "ru":""
   },
   "t113":{
@@ -66,7 +66,7 @@
   },
   "t114":{
     "en":"Follow",
-    "zh":"",
+    "zh":"社区",
     "ru":""
   },
   "t115":{
@@ -76,7 +76,7 @@
   },
   "t116":{
     "en":"AI Computing Platform Driven By Blockchain",
-    "zh":"",
+    "zh":"区块链驱动的人工智能计算平台",
     "ru":""
   },
   "t117":{
@@ -101,77 +101,77 @@
   },
   "t121":{
     "en":"Email address",
-    "zh":"",
+    "zh":"邮箱地址",
     "ru":""
   },
   "t122":{
     "en":"Incorrect email address",
-    "zh":"",
+    "zh":"邮箱地址不正确",
     "ru":""
   },
   "t123":{
     "en":"Password",
-    "zh":"",
+    "zh":"密码",
     "ru":""
   },
   "t124":{
     "en":"Incorrect password",
-    "zh":"",
+    "zh":"密码不正确",
     "ru":""
   },
   "t125":{
     "en":"Repeat Password",
-    "zh":"",
+    "zh":"重复密码",
     "ru":""
   },
   "t126":{
     "en":"Entered passwords differ",
-    "zh":"",
+    "zh":"输入的密码不一致",
     "ru":""
   },
   "t127":{
     "en":"Register",
-    "zh":"",
+    "zh":"注册",
     "ru":""
   },
   "t128":{
     "en":"I have read, understood and accepted",
-    "zh":"",
+    "zh":"我已经阅读，理解，接受",
     "ru":""
   },
   "t129":{
     "en":"these agreements",
-    "zh":"",
+    "zh":"这些协议",
     "ru":""
   },
   "t130":{
     "en":"Already have an account?",
-    "zh":"",
+    "zh":"已经有账号？",
     "ru":""
   },
   "t131":{
     "en":" Sign in",
-    "zh":"",
+    "zh":" 登录",
     "ru":""
   },
   "t132":{
     "en":"Login",
-    "zh":"",
+    "zh":"登录",
     "ru":""
   },
   "t133":{
     "en":"Don't have an account?",
-    "zh":"",
+    "zh":"没有账号？",
     "ru":""
   },
   "t134":{
     "en":" Sign up",
-    "zh":"",
+    "zh":" 注册",
     "ru":""
   },
   "t135":{
     "en":"Forgot password?",
-    "zh":"",
+    "zh":"忘记密码?",
     "ru":""
   },
   "t136":{
