@@ -113,5 +113,19 @@
   "u16": "TYPE",
   "u17": "AMOUNT",
   "u18": "TIME",
-  "u19": "STATUS"
+  "u19": "STATUS",
+  "u20": "My Order",
+  "u21": "Serial Number",
+  "u22": "Product",
+  "u23": "Payment Amount",
+  "u24": "Create Time",
+  "u25": "Status",
+  "u26": "Awaiting payment",
+  "u27": "Canceled",
+  "u28": "Paid",
+  "u29": "Payment failure",
+  "u30": "Distributing",
+  "u31": "Refunding",
+  "u32": "Completed",
+  "u33": "First round of DBC wallet ranking has ended, 2nd round coming soon!"
 }
