@@ -127,5 +127,9 @@
   "u30": "Distributing",
   "u31": "Refunding",
   "u32": "Completed",
-  "u33": "First round of DBC wallet ranking has ended, 2nd round coming soon!"
+  "u33": "First round of DBC wallet ranking has ended, 2nd round coming soon!",
+  "u34": "Mine",
+  "u35": "Dragon Datacenter",
+  "u36": "UMining Datacenter",
+  "u37": "Not hosted"
 }

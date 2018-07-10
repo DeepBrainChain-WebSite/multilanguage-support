@@ -77,8 +77,8 @@
   "t76": "include freight",
   "t77": "Hosted In Data Centers With Professional Cooling",
   "t78": "Select",
-  "t79": "China's mines",
-  "t80": "Non-chinese mines",
+  "t79": "Dragon Datacenter",
+  "t80": "UMining Datacenter",
   "t81": "Not hosted",
   "t82": "Details&gt;&gt;",
   "t83": "Machine Hosted",
@@ -155,6 +155,7 @@
   "u55":"UMining mine information download",
   "u56":"Please select hosting options.",
   "u57":"The platform is in the lock check of the miner...",
-  "u58":"",
-  "u59":""
+  "u58":"You have no right to purchase!",
+  "u59":"Count Down To Buying",
+  "u60":"This round of buying has ended."
 }
