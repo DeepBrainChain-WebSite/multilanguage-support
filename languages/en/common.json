@@ -38,5 +38,8 @@
   "t137": "The email address has been registered!",
   "t138": "BOUNTY",
   "t139": "Reminder",
-  "t140": "Got it"
+  "t140": "Got it",
+  "t141": "Email address does not exist or password error",
+  "t142": "Your password must be 6-30 characters, uppercase, lowercase letter and numbers are accepted.",
+  "t143": "DBC SALE"
 }
